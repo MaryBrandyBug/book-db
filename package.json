@@ -1,0 +1,15 @@
+{
+  "name": "book-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git@github.com:MaryBrandyBug/book-db.git",
+  "author": "Maria Bystrova <17mashmallow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
